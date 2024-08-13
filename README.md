@@ -75,12 +75,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/itertius/itertius/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <div align="center">
   <a href="https://open.spotify.com/user/31lk5jazcinyauvuexvc65lfjlf4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lk5jazcinyauvuexvc65lfjlf4&count=5&unique=true" alt="Spotify recently played"  />
