@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🚀 About me</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">My Tech Stack</h2>
+<h2 align="left">💻 Tech Stack</h2>
 
 ###
 
@@ -56,3 +56,12 @@
 </div>
 
 ###
+
+<h2 align="left">✉️ Contact Me</h2>
+
+###
+
+<p align="left">
+  📧 Email : <a href="mailto:teverygood@gmail.com">teverygood@gmail.com</a><br>
+  📸 Instagram : <a href="https://www.instagram.com/iterrius_te/">instagram.com/iterrius_te/</a><br>
+</p>
