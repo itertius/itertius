@@ -63,5 +63,5 @@
 
 <p align="left">
   📧 Email : <a href="mailto:teverygood@gmail.com">teverygood@gmail.com</a><br>
-  📸 Instagram : <a href="https://www.instagram.com/iterrius_te/">instagram.com/iterrius_te/</a><br>
+  📸 Instagram : <a href="https://www.instagram.com/iterrius_te/">instagram.com/iterrius_te</a><br>
 </p>
