@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning: <br>- Machine Learning Architecture<br>- Image Classification & Image Processing<br>- Natural Language Processing (ThaiT5, mT5, LLaMA-Thai)<br><br>🎯 Goals: <br>- Continue learning and experimenting with advanced machine learning models<br>- Create innovative web applications and AI systems<br><br>🎲 Fun fact:<br>- All of this I generated from ChatGPT! (Yes, even the bugs).</p>
+<p align="left">📚 I'm currently learning: <br>- Machine Learning Architecture<br>- Image Classification & Image Processing<br>- Natural Language Processing (ThaiT5, mT5, LLaMA-Thai)<br><br>🎯 Goals: <br>- Continue learning and experimenting with advanced machine learning models<br>- Create innovative AI systems and tools that solve real-world problems<br><br>🎲 Fun fact:<br>- All of this I generated from ChatGPT! (Yes, even the bugs).</p>
 
 ###
 
