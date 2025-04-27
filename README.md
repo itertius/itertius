@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Witsanupong Kolakul and I'm a AI Engineer, from Thailand</p>
+<p align="left">Hi, I'm Witsanupong Kolakul — an AI Engineer from Thailand.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning: <br>- Machine Learning Architecture<br>- Image Classification & Image Processing<br>- Natural Language Processing (ThaiT5, mT5, LLaMA-Thai)<br>- Web Development using Vue.js and other modern JavaScript frameworks<br><br>🎯 Goals: <br>- Continue learning and experimenting with advanced machine learning models<br>- Create innovative web applications and AI systems<br><br>🎲 Fun fact:<br>- All of this I generated from ChatGPT! (Yes, even the bugs).</p>
+<p align="left">📚 I'm currently learning: <br>- Machine Learning Architecture<br>- Image Classification & Image Processing<br>- Natural Language Processing (ThaiT5, mT5, LLaMA-Thai)<br><br>🎯 Goals: <br>- Continue learning and experimenting with advanced machine learning models<br>- Create innovative web applications and AI systems<br><br>🎲 Fun fact:<br>- All of this I generated from ChatGPT! (Yes, even the bugs).</p>
 
 ###
 
