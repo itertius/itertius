@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Witsanupong Kolakul and I'm a Web Developer and AI Engineer, from Thailand</p>
+<p align="left">My name is Witsanupong Kolakul and I'm a AI Engineer, from Thailand</p>
 
 ###
 
