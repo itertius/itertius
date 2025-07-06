@@ -2,66 +2,61 @@
 
 ###
 
-<p align="left">Hi, I'm Witsanupong Kolakul — an AI Engineer from Thailand.</p>
+<p align="left">I'm <strong>Witsanupong Kolakul</strong>, an AI Engineer from Thailand passionate about exploring machine learning and its real-world applications.</p>
 
 ###
 
-<h2 align="left">🚀 About me</h2>
-
-###
-
-<p align="left">📚 I'm currently learning: <br>- Machine Learning Architecture<br>- Image Classification & Image Processing<br>- Natural Language Processing (ThaiT5, mT5, LLaMA-Thai)<br><br>🎯 Goals: <br>- Continue learning and experimenting with advanced machine learning models<br>- Create innovative AI systems and tools that solve real-world problems<br><br>🎲 Fun fact:<br>- All of this I generated from ChatGPT! (Yes, even the bugs).</p>
-
-###
-
-<h2 align="left">💻 Tech Stack</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<h2 align="left">✉️ Contact Me</h2>
+<h2 align="left">🚀 About Me</h2>
 
 ###
 
 <p align="left">
-  📧 Email : <a href="mailto:teverygood@gmail.com">teverygood@gmail.com</a><br>
-  📸 Instagram : <a href="https://www.instagram.com/iterrius_te/">instagram.com/iterrius_te</a><br>
+  🔬 I love diving deep into research areas like:<br>
+  - Machine Learning Architectures & Optimization<br>
+  - Computer Vision (Image Classification, Segmentation, Background Removal)<br>
+  - Natural Language Processing with a focus on Thai language models (ThaiT5, mT5, LLaMA-Thai)<br><br>
+  🎯 My goal is to keep learning, experimenting, and building innovative AI systems that make a difference.<br><br>
+  ⚡ Fun fact: ChatGPT is my go-to brainstorming and debugging partner.
 </p>
+
+###
+
+<h2 align="left">🛠️ Tech Stack</h2>
+
+###
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:70px; margin-right:15px;" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="height:70px; margin-right:15px;" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="height:70px; margin-right:15px;" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="height:70px; margin-right:15px;" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="height:70px; margin-right:70px;" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:70px; margin-right:15px;" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:70px; margin-right:70px;" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:70px; margin-right:70px;" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" style="height:70px; margin-right:15px;" alt="TailwindCSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:70px; margin-right:15px;" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height:70px; margin-right:15px;" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="height:70px; margin-right:15px;" alt="Vue.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="height:70px; margin-right:15px;" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="height:70px; margin-right:15px;" alt="Arduino"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="height:70px; margin-right:15px;" alt="Anaconda"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" style="height:70px; margin-right:15px;" alt="Kaggle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:70px; margin-right:15px;" alt="Git"/>
+</p>
+
+###
+
+<h2 align="left">📬 Contact Me</h2>
+
+###
+
+<p align="left">
+  📧 Email: <a href="mailto:teverygood@gmail.com">teverygood@gmail.com</a><br>
+  📸 Instagram: <a href="https://www.instagram.com/iterrius_te/">@iterrius_te</a><br>
+  📄 Portfolio / CV: Coming soon!
+</p>
+
+---
+
+<p align="center">📈 Always curious, always growing — with the hope that one day, I’ll have the opportunity to study at <strong>CMU</strong> and take my research further.</p>
