@@ -1,4 +1,5 @@
 name: Generate Snake Game
+# Snake animation workflow for GitHub contributions
 
 on:
   schedule:
