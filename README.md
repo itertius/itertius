@@ -1,6 +1,12 @@
 <div align="center">
   <h1>👋 Hey, What's up?</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=3B82F6&center=true&vCenter=true&multiline=true&width=1500&height=150&lines=I'm+Witsanupong+Kolakul;Computer+Engineering+Student+specializing+in+AI%2C+Computer+Vision%2C+DevOps%2C+and+Space+Technology;Building+intelligent+systems+that+bridge+cutting-edge+research+with+practical+applications+in+both+terrestrial+and+space+domains" alt="Typing SVG" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Hello%20World-Computer%20Engineering%20Student-blue?style=for-the-badge&logo=python&logoColor=white" alt="Student Badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Computer%20Vision%20%7C%20DevOps%20%7C%20Space%20Tech-green?style=for-the-badge&logo=react&logoColor=white" alt="Focus Badge" />
+</p>
+<p align="center">
+  <img src="https://github.com/itertius/itertius/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 </div>
 
 <div align="center">
