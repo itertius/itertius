@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hey, What's up?</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=3B82F6&center=true&vCenter=true&multiline=true&width=1200&height=120&lines=I'm+Witsanupong+Kolakul;Computer+Engineering+Student+specializing+in+AI%2C+Computer+Vision%2C+DevOps%2C+and+Space+Technology;Building+intelligent+systems+that+bridge+cutting-edge+research+with+practical+applications+in+both+terrestrial+and+space+domains" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=3B82F6&center=true&vCenter=true&multiline=true&width=1500&height=150&lines=I'm+Witsanupong+Kolakul;Computer+Engineering+Student+specializing+in+AI%2C+Computer+Vision%2C+DevOps%2C+and+Space+Technology;Building+intelligent+systems+that+bridge+cutting-edge+research+with+practical+applications+in+both+terrestrial+and+space+domains" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -24,32 +24,25 @@
 
 <div align="center">
   <h2>🛠️ Tech Stack</h2>
-  <p>
-    <strong>🤖 AI/ML Frameworks:</strong><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:50px; margin:10px;" alt="Python"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="height:50px; margin:10px;" alt="PyTorch"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="height:50px; margin:10px;" alt="TensorFlow"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="height:50px; margin:10px;" alt="Jupyter"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="height:50px; margin:10px;" alt="Anaconda"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" style="height:50px; margin:10px;" alt="Kaggle"/>
-    <br><br>
-    <strong>💻 Programming Languages:</strong><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="height:50px; margin:10px;" alt="C"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:50px; margin:10px;" alt="C++"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:50px; margin:10px;" alt="JavaScript"/>
-    <br><br>
-    <strong>🌐 Web Development:</strong><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:50px; margin:10px;" alt="HTML5"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:50px; margin:10px;" alt="CSS3"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" style="height:50px; margin:10px;" alt="TailwindCSS"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height:50px; margin:10px;" alt="Node.js"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="height:50px; margin:10px;" alt="Vue.js"/>
-    <br><br>
-    <strong>🛠️ Tools & Others:</strong><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="height:50px; margin:10px;" alt="Figma"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="height:50px; margin:10px;" alt="Arduino"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:50px; margin:10px;" alt="Git"/>
-  </p>
+  <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:70px; margin-right:15px;" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="height:70px; margin-right:15px;" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="height:70px; margin-right:15px;" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="height:70px; margin-right:15px;" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="height:70px; margin-right:70px;" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:70px; margin-right:15px;" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:70px; margin-right:70px;" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:70px; margin-right:70px;" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" style="height:70px; margin-right:15px;" alt="TailwindCSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:70px; margin-right:15px;" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height:70px; margin-right:15px;" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="height:70px; margin-right:15px;" alt="Vue.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="height:70px; margin-right:15px;" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="height:70px; margin-right:15px;" alt="Arduino"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="height:70px; margin-right:15px;" alt="Anaconda"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" style="height:70px; margin-right:15px;" alt="Kaggle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:70px; margin-right:15px;" alt="Git"/>
+</p>
 </div>
 
 ###
