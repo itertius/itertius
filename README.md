@@ -64,8 +64,8 @@
       <img src="https://img.shields.io/badge/Email-teverygood@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
     <br><br>
-    <a href="https://www.instagram.com/iterrius_te/">
-      <img src="https://img.shields.io/badge/Instagram-@iterrius_te-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <a href="https://www.instagram.com/iterriuss/">
+      <img src="https://img.shields.io/badge/Instagram-@iterriuss-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
     <br><br>
     <a href="https://itertius.github.io/portfolio/">
