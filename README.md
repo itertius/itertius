@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hey, What's up?</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=I'm+Witsanupong+Kolakul;Computer+Engineering+Student+specializing+in+AI%2C+Computer+Vision%2C+DevOps%2C+and+Space+Technology;Building+intelligent+systems+that+bridge+cutting-edge+research+with+practical+applications+in+both+terrestrial+and+space+domains" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=3B82F6&center=true&vCenter=true&multiline=true&width=1200&height=120&lines=I'm+Witsanupong+Kolakul;Computer+Engineering+Student+specializing+in+AI%2C+Computer+Vision%2C+DevOps%2C+and+Space+Technology;Building+intelligent+systems+that+bridge+cutting-edge+research+with+practical+applications+in+both+terrestrial+and+space+domains" alt="Typing SVG" />
 </div>
 
 <div align="center">
