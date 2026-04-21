@@ -1,8 +1,8 @@
 <div align="center">
   <h1>👋 Hey, What's up?</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Hello%20World-Computer%20Engineering%20Student-blue?style=for-the-badge&logo=python&logoColor=white" alt="Student Badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Computer%20Vision%20%7C%20DevOps%20%7C%20Space%20Tech-green?style=for-the-badge&logo=react&logoColor=white" alt="Focus Badge" />
+  <img src="https://img.shields.io/badge/Hello%20World-Computer%20Engineering%20Student%20@%20Chulalongkorn%20University-DE5C8E?style=for-the-badge&logo=python&logoColor=white" alt="Student Badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Computer%20Vision%20%7C%20DevOps%20%7C%20Space%20Tech-blue?style=for-the-badge&logo=react&logoColor=white" alt="Focus Badge" />
 </p>
 <p align="center">
   <picture>
