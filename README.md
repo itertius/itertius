@@ -5,7 +5,11 @@
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Computer%20Vision%20%7C%20DevOps%20%7C%20Space%20Tech-green?style=for-the-badge&logo=react&logoColor=white" alt="Focus Badge" />
 </p>
 <p align="center">
-  <img src="https://github.com/itertius/itertius/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/itertius/itertius/raw/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/itertius/itertius/raw/output/github-snake.svg">
+    <img src="https://github.com/itertius/itertius/raw/output/github-snake.svg" alt="Snake Animation" />
+  </picture>
 </p>
 </div>
 
