@@ -72,7 +72,7 @@
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Online-blue?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/>
     </a>
     <br><br>
-    <a href="[https://drive.google.com/file/d/1A9e_0yNNnbVD85no6hFFukNkWyf7TQCA/view?usp=sharing">
+    <a href="https://drive.google.com/file/d/1kLdpiq8Zcfnmkz6pUrfXLMGLXbqoo48P/view?usp=sharing">
       <img src="https://img.shields.io/badge/CV-Download%20Now-green?style=for-the-badge&logo=adobe&logoColor=white" alt="CV Badge"/>
     </a>
   </p>
