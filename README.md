@@ -68,7 +68,7 @@
       <img src="https://img.shields.io/badge/Instagram-@iterriuss-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
     <br><br>
-    <a href="https://itertius.github.io/portfolio/">
+    <a href="https://www.witsanupong-kolakul.com">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Online-blue?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/>
     </a>
     <br><br>
