@@ -98,7 +98,7 @@ I build things where AI meets the real world: models that see, systems that ship
   <a href="mailto:teverygood@gmail.com"><img src="https://img.shields.io/badge/Email-teverygood@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
   <a href="https://www.instagram.com/iterriuss/"><img src="https://img.shields.io/badge/Instagram-@iterriuss-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
   <a href="https://www.witsanupong-kolakul.com"><img src="https://img.shields.io/badge/Portfolio-Visit%20Online-blue?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/></a>
-  <a href="https://drive.google.com/file/d/1kLdpiq8Zcfnmkz6pUrfXLMGLXbqoo48P/view?usp=sharing"><img src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=adobe&logoColor=white" alt="CV Badge"/></a>
+  <a href="https://drive.google.com/file/d/1n-RVCBaH7wLThMmjzPJRKtkEWH8IznSF/view?usp=sharing"><img src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=adobe&logoColor=white" alt="CV Badge"/></a>
 </p>
 
 ---
