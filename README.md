@@ -1,83 +1,106 @@
 <div align="center">
-  <h1>👋 Hey, What's up?</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Hello%20World-Computer%20Engineering%20Student%20@%20Chulalongkorn%20University-DE5C8E?style=for-the-badge&logo=python&logoColor=white" alt="Student Badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Computer%20Vision%20%7C%20DevOps%20%7C%20Space%20Tech-blue?style=for-the-badge&logo=react&logoColor=white" alt="Focus Badge" />
-</p>
-<p align="center">
+  <h1>👋 Hey, I'm Witsanupong</h1>
+  <p>
+    <img src="https://img.shields.io/badge/Computer%20Engineering%20Student-Chulalongkorn%20University-DE5C8E?style=for-the-badge&logo=python&logoColor=white" alt="Student Badge" />
+    <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Computer%20Vision%20%7C%20DevOps%20%7C%20Space%20Tech-blue?style=for-the-badge&logo=react&logoColor=white" alt="Focus Badge" />
+  </p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/itertius/itertius/raw/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/itertius/itertius/raw/output/github-snake.svg">
     <img src="https://github.com/itertius/itertius/raw/output/github-snake.svg" alt="Snake Animation" />
   </picture>
+</div>
+
+## 🚀 About Me
+
+I build things where AI meets the real world: models that see, systems that ship, and hardware that flies.
+
+- 🧠 **Machine learning:** training and fine-tuning models, from classic regression to hybrid CNN–ViT architectures with LoRA.
+- 👁️ **Computer vision:** image classification, segmentation, pose estimation, and surgical video analysis.
+- 🗣️ **Thai NLP:** building on Thai language models and Thai text-to-speech for practical, local-first apps.
+- ⚙️ **DevOps:** Docker and GitHub Actions CI/CD pipelines for reliable deployments.
+- 🛰️ **Space tech & embedded:** CanSat ground stations and flight software, ESP32 IoT, and PCB design in KiCad.
+
+🎯 **Goal:** keep learning, experiment with cutting-edge AI, and turn ideas into systems people actually use.
+
+## 🌟 Featured Projects
+
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [🛰️ Cansat2025](https://github.com/itertius/Cansat2025) | Ground station, deployment system, and flight software for the Thailand CANSAT–ROCKET Competition 2025 | Embedded C/C++, Python |
+| [🏋️ ai-for-thai](https://github.com/itertius/ai-for-thai) | Real-time AI coaching for squat, deadlift, and bench press form, with spoken Thai feedback | MediaPipe, Pathumma LLM, VAJA TTS |
+| [🍅 AIB5-Tomato-Disease](https://github.com/itertius/AIB5-Tomato-Disease) | Deep learning model that detects and classifies tomato plant diseases from images | PyTorch, Jupyter |
+| [💳 subscription-hub](https://github.com/itertius/subscription-hub) | Track subscription payments with a stats dashboard and multi-currency support | React, Node.js, Docker, GitHub Actions |
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" title="Python"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="TypeScript" title="TypeScript"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" title="JavaScript"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" alt="C" title="C"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++" title="C++"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="48" alt="Lua" title="Lua"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="48" alt="LaTeX" title="LaTeX"/>
 </p>
-</div>
 
-<div align="center">
-  <h2>🚀 About Me</h2>
-  <p>
-    🔥 <strong>Fueling the Flames of Innovation:</strong><br>
-    <div align="left">
-      • Unleashing the full potential of machine learning to revolutionize model performance.<br>
-      • Exploring the realm of computer vision, harnessing the power of image classification, segmentation, and background removal.<br>
-      • Empowering natural language processing (NLP) with Thai language models, enabling text-based wizardry.<br>
-      • Applying DevOps principles to streamline the development process, ensuring efficient and reliable software deployments.<br>
-      • Delving into the wondrous world of space technology, seeking to harness the power of satellite imagery and space data for practical applications.
-    </div>
-    <br>
-    🎯 <strong>My Ultimate Goal:</strong> Continuously expand my knowledge and skills, experiment with cutting-edge AI solutions, and create transformative systems.<br><br>
-    ✨ <strong>Fun Fact:</strong> My trusty sidekick, Claude, is always available to assist and provide a social community whenever I need a spark of inspiration.
-  </p>
-</div>
+**AI / Data**
 
-###
-
-<div align="center">
-  <h2>🛠️ Tech Stack</h2>
-  <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:70px; margin-right:15px;" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="height:70px; margin-right:15px;" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="height:70px; margin-right:15px;" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="height:70px; margin-right:15px;" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="height:70px; margin-right:70px;" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:70px; margin-right:15px;" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:70px; margin-right:70px;" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:70px; margin-right:70px;" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" style="height:70px; margin-right:15px;" alt="TailwindCSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:70px; margin-right:15px;" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height:70px; margin-right:15px;" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="height:70px; margin-right:15px;" alt="Vue.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="height:70px; margin-right:15px;" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="height:70px; margin-right:15px;" alt="Arduino"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="height:70px; margin-right:15px;" alt="Anaconda"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" style="height:70px; margin-right:15px;" alt="Kaggle"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:70px; margin-right:15px;" alt="Git"/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48" alt="PyTorch" title="PyTorch"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" alt="TensorFlow" title="TensorFlow"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="scikit-learn" title="scikit-learn"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="48" alt="OpenCV" title="OpenCV"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="pandas" title="pandas"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" title="NumPy"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter" title="Jupyter"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="48" alt="Anaconda" title="Anaconda"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="48" alt="Kaggle" title="Kaggle"/>
 </p>
-</div>
 
-###
+**Web**
 
-<div align="center">
-  <h2>📬 Get In Touch</h2>
-  <p>
-    <a href="mailto:teverygood@gmail.com">
-      <img src="https://img.shields.io/badge/Email-teverygood@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-    </a>
-    <br><br>
-    <a href="https://www.instagram.com/iterriuss/">
-      <img src="https://img.shields.io/badge/Instagram-@iterriuss-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
-    <br><br>
-    <a href="https://www.witsanupong-kolakul.com">
-      <img src="https://img.shields.io/badge/Portfolio-Visit%20Online-blue?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/>
-    </a>
-    <br><br>
-    <a href="https://drive.google.com/file/d/1kLdpiq8Zcfnmkz6pUrfXLMGLXbqoo48P/view?usp=sharing">
-      <img src="https://img.shields.io/badge/CV-Download%20Now-green?style=for-the-badge&logo=adobe&logoColor=white" alt="CV Badge"/>
-    </a>
-  </p>
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="React" title="React"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" alt="Next.js" title="Next.js"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="48" alt="Vue.js" title="Vue.js"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js" title="Node.js"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="48" alt="Tailwind CSS" title="Tailwind CSS"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="48" alt="Supabase" title="Supabase"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5" title="HTML5"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="CSS3" title="CSS3"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" alt="Figma" title="Figma"/>
+</p>
+
+**DevOps / Tools**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="Docker" title="Docker"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="48" alt="GitHub Actions" title="GitHub Actions"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git" title="Git"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" alt="Linux" title="Linux"/>
+</p>
+
+**Hardware / Embedded**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="48" alt="Arduino" title="Arduino"/>&nbsp;
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="28" alt="ESP32"/>&nbsp;
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" height="28" alt="KiCad"/>
+</p>
+
+## 📬 Get In Touch
+
+<p>
+  <a href="mailto:teverygood@gmail.com"><img src="https://img.shields.io/badge/Email-teverygood@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  <a href="https://www.instagram.com/iterriuss/"><img src="https://img.shields.io/badge/Instagram-@iterriuss-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
+  <a href="https://www.witsanupong-kolakul.com"><img src="https://img.shields.io/badge/Portfolio-Visit%20Online-blue?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/></a>
+  <a href="https://drive.google.com/file/d/1kLdpiq8Zcfnmkz6pUrfXLMGLXbqoo48P/view?usp=sharing"><img src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=adobe&logoColor=white" alt="CV Badge"/></a>
+</p>
 
 ---
 
-<p align="center">🔥 I'm always on a quest to push the boundaries of what's possible in technology. With my curiosity and passion, I'm aiming high. 🚀</p>
+<p align="center">🔥 Always pushing the boundaries of what's possible in technology. Curious, building, aiming high. 🚀</p>
