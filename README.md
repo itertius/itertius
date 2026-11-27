@@ -114,4 +114,4 @@ I'm a builder at heart: I take ideas from zero to a shipped MVP, put them in fro
 
 ---
 
-<p align="center">Currently building. Happy to talk startups, AI, or hardware.</p>
+<p align="center">🚀 Build fast. Launch early. Fix it in flight.</p>
