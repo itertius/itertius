@@ -106,7 +106,7 @@ I'm a builder at heart: I take ideas from zero to a shipped MVP, put them in fro
 ## 📬 Get In Touch
 
 <p>
-  <a href="mailto:contact@witsanupong-kolakul.com" title="contact@witsanupong-kolakul.com"><img src="assets/email-badge.svg" alt="Email: contact@witsanupong-kolakul.com"/></a>
+  <a href="mailto:contact@witsanupong-kolakul.com" title="contact@witsanupong-kolakul.com"><img src="https://github.com/itertius/itertius/raw/main/assets/email-badge.svg" alt="Email: contact@witsanupong-kolakul.com"/></a>
   <a href="https://www.instagram.com/iterriuss/"><img src="https://img.shields.io/badge/Instagram-@iterriuss-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
   <a href="https://www.witsanupong-kolakul.com"><img src="https://img.shields.io/badge/Portfolio-Visit%20Online-blue?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/></a>
   <a href="https://drive.google.com/file/d/1n-RVCBaH7wLThMmjzPJRKtkEWH8IznSF/view?usp=sharing"><img src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=adobe&logoColor=white" alt="CV Badge"/></a>
