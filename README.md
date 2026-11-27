@@ -26,9 +26,9 @@ I'm a builder at heart: I take ideas from zero to a shipped MVP, put them in fro
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| [🎓 CEDT Hub](https://github.com/itertius/cedt-portal) | One login for every CEDT platform, with deadlines, announcements, and an AI assistant for schedule and notes. [Live](https://hub.witsanupong-kolakul.com) | Next.js, PostgreSQL, Drizzle, Better Auth, Claude API, Vercel |
-| [🏋️ ai-for-thai](https://github.com/itertius/ai-for-thai) | Real-time AI coaching for squat, deadlift, and bench press form, with spoken Thai feedback | MediaPipe, Pathumma LLM, VAJA TTS |
-| [🛰️ Cansat2025](https://github.com/itertius/Cansat2025) | Ground station, deployment system, and flight software for the Thailand CANSAT–ROCKET Competition 2025 | Embedded C/C++, Python |
+| [🎓&nbsp;CEDT&nbsp;Hub](https://github.com/itertius/cedt-portal) | One login for every CEDT platform, with deadlines, announcements, and an AI assistant for schedule and notes. [Live](https://hub.witsanupong-kolakul.com) | Next.js, PostgreSQL, Drizzle, Better Auth, Claude API, Vercel |
+| [🏋️&nbsp;ai&#8209;for&#8209;thai](https://github.com/itertius/ai-for-thai) | Real-time AI coaching for squat, deadlift, and bench press form, with spoken Thai feedback | MediaPipe, Pathumma LLM, VAJA TTS |
+| [🛰️&nbsp;Cansat2025](https://github.com/itertius/Cansat2025) | Ground station, deployment system, and flight software for the Thailand CANSAT–ROCKET Competition 2025 | Embedded C/C++, Python |
 
 ## 🛠️ Tech Stack
 
@@ -106,7 +106,7 @@ I'm a builder at heart: I take ideas from zero to a shipped MVP, put them in fro
 ## 📬 Get In Touch
 
 <p>
-  <a href="mailto:contact@witsanupong-kolakul.com" title="contact@witsanupong-kolakul.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email: contact@witsanupong-kolakul.com"/></a>
+  <a href="mailto:contact@witsanupong-kolakul.com" title="contact@witsanupong-kolakul.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email: contact@witsanupong-kolakul.com"/></a>
   <a href="https://www.instagram.com/iterriuss/"><img src="https://img.shields.io/badge/Instagram-@iterriuss-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
   <a href="https://www.witsanupong-kolakul.com"><img src="https://img.shields.io/badge/Portfolio-Visit%20Online-blue?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/></a>
   <a href="https://drive.google.com/file/d/1n-RVCBaH7wLThMmjzPJRKtkEWH8IznSF/view?usp=sharing"><img src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=adobe&logoColor=white" alt="CV Badge"/></a>
