@@ -13,24 +13,22 @@
 
 ## 🚀 About Me
 
-I build things where AI meets the real world: models that see, systems that ship, and hardware that flies.
+I'm a builder at heart: I take ideas from zero to a shipped MVP, put them in front of real users, and iterate fast.
 
-- 🧠 **Machine learning:** training and fine-tuning models, from classic regression to hybrid CNN–ViT architectures with LoRA.
-- 👁️ **Computer vision:** image classification, segmentation, pose estimation, and surgical video analysis.
-- 🗣️ **Thai NLP:** building on Thai language models and Thai text-to-speech for practical, local-first apps.
-- ⚙️ **DevOps:** Docker and GitHub Actions CI/CD pipelines for reliable deployments.
-- 🛰️ **Space tech & embedded:** CanSat ground stations and flight software, ESP32 IoT, and PCB design in KiCad.
+- 🏗️ **Zero to one:** scoping, building, and deploying MVPs end to end, from first commit to production on Vercel.
+- 🤝 **SaphanVC:** building products with the SaphanVC team, where we ship, measure, and repeat.
+- 🤖 **AI-native products:** LLM features, computer vision, and Thai NLP built into apps people use, not just notebooks.
+- 🛰️ **Hard tech roots:** CanSat flight software, ESP32 IoT, and PCB design in KiCad.
 
-🎯 **Goal:** keep learning, experiment with cutting-edge AI, and turn ideas into systems people actually use.
+🎯 **Goal:** find a problem worth solving, ship the smallest thing that solves it, and grow it into a company.
 
 ## 🌟 Featured Projects
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| [🛰️ Cansat2025](https://github.com/itertius/Cansat2025) | Ground station, deployment system, and flight software for the Thailand CANSAT–ROCKET Competition 2025 | Embedded C/C++, Python |
+| [🎓 CEDT Hub](https://github.com/itertius/cedt-portal) | One login for every CEDT platform, with deadlines, announcements, and an AI assistant for schedule and notes. [Live](https://hub.witsanupong-kolakul.com) | Next.js, PostgreSQL, Drizzle, Better Auth, Claude API, Vercel |
 | [🏋️ ai-for-thai](https://github.com/itertius/ai-for-thai) | Real-time AI coaching for squat, deadlift, and bench press form, with spoken Thai feedback | MediaPipe, Pathumma LLM, VAJA TTS |
-| [🍅 AIB5-Tomato-Disease](https://github.com/itertius/AIB5-Tomato-Disease) | Deep learning model that detects and classifies tomato plant diseases from images | PyTorch, Jupyter |
-| [💳 subscription-hub](https://github.com/itertius/subscription-hub) | Track subscription payments with a stats dashboard and multi-currency support | React, Node.js, Docker, GitHub Actions |
+| [🛰️ Cansat2025](https://github.com/itertius/Cansat2025) | Ground station, deployment system, and flight software for the Thailand CANSAT–ROCKET Competition 2025 | Embedded C/C++, Python |
 
 ## 🛠️ Tech Stack
 
@@ -59,6 +57,9 @@ I build things where AI meets the real world: models that see, systems that ship
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter" title="Jupyter"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="48" alt="Anaconda" title="Anaconda"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="48" alt="Kaggle" title="Kaggle"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=claude&logoColor=white" height="28" alt="Claude API"/>&nbsp;
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white" height="28" alt="MediaPipe"/>
 </p>
 
 **Web**
@@ -72,16 +73,26 @@ I build things where AI meets the real world: models that see, systems that ship
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="48" alt="Supabase" title="Supabase"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5" title="HTML5"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="CSS3" title="CSS3"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" alt="Figma" title="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" alt="Figma" title="Figma"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="MongoDB" title="MongoDB"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="48" alt="FastAPI" title="FastAPI"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="48" alt="Streamlit" title="Streamlit"/>
 </p>
 
-**DevOps / Tools**
+**DevOps / Ship**
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="Docker" title="Docker"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="48" alt="GitHub Actions" title="GitHub Actions"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git" title="Git"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" alt="Linux" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" alt="Linux" title="Linux"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="48" alt="Vercel" title="Vercel"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pnpm/pnpm-original.svg" height="48" alt="pnpm" title="pnpm"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="48" alt="Postman" title="Postman"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="48" alt="Notion" title="Notion"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" height="28" alt="Turborepo"/>&nbsp;
+  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" height="28" alt="Drizzle ORM"/>
 </p>
 
 **Hardware / Embedded**
@@ -95,7 +106,7 @@ I build things where AI meets the real world: models that see, systems that ship
 ## 📬 Get In Touch
 
 <p>
-  <a href="mailto:contact@witsanupong-kolakul.com"><img src="https://img.shields.io/badge/Email-contact@witsanupong--kolakul.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  <a href="mailto:contact@witsanupong-kolakul.com" title="contact@witsanupong-kolakul.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email: contact@witsanupong-kolakul.com"/></a>
   <a href="https://www.instagram.com/iterriuss/"><img src="https://img.shields.io/badge/Instagram-@iterriuss-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
   <a href="https://www.witsanupong-kolakul.com"><img src="https://img.shields.io/badge/Portfolio-Visit%20Online-blue?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/></a>
   <a href="https://drive.google.com/file/d/1n-RVCBaH7wLThMmjzPJRKtkEWH8IznSF/view?usp=sharing"><img src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=adobe&logoColor=white" alt="CV Badge"/></a>
@@ -103,4 +114,4 @@ I build things where AI meets the real world: models that see, systems that ship
 
 ---
 
-<p align="center">🔥 Always pushing the boundaries of what's possible in technology. Curious, building, aiming high. 🚀</p>
+<p align="center">🔥 Ship early, learn fast, build what people need. Open to co-founders, collabs, and early-stage teams. 🚀</p>
